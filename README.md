@@ -13,3 +13,18 @@ Steps to using:
 5. Locate 'Sin's CSGO Esp' (SHOULD be the third file) and open it. 
 6. Load into a game with bots or training or whatever
 7. You now have a working esp. Enjoy!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit to : Swedz
